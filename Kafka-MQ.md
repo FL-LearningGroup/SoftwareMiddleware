@@ -1,6 +1,11 @@
 ## Overview
 Kafka is an open-source distributed event streaming platform. For high-performance data pipelines, streaming analytics, data integration, and mission-critical applications.
 
+## Tutorial
+https://kafka.apache.org/quickstart
+
+https://www.w3cschool.cn/apache_kafka/apache_kafka_fundamentals.html
+
 ## Roles
 1. Producer: 消息的推送者
 2. Consumer：消息的消费者
